@@ -1,4 +1,4 @@
-const emailList =['mario@gmail.com','lucagmail.com','giorgio@gmail.com'];
+const emailList =['mario@gmail.com','luca@gmail.com','giorgio@gmail.com'];
 const userEmail = prompt('Inserisci la tua email');
 
 if(emailList.includes(userEmail)){
